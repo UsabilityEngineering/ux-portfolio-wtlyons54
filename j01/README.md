@@ -1,12 +1,14 @@
-#Journal Entries
+## Journal Entries
 
-#Entry 1: My Job Rocker Max and My User Experience
-Author: William Lyons
-Date: 10/14/22
+# Entry 1: My Experience with my Job Rocker Max
+# Author: William Lyons
+# Date: 10/14/22
 
-![IMG_3158](https://user-images.githubusercontent.com/92234942/195951362-1140f550-932d-4353-b6e0-aaa73aa1f31a.jpg)
 
-My mother got this speaker for me for christmas 6 or 7 years ago, as I wanted a big speaker back in highschool. Although I have had it for such a long time I have never really used every function that the speaker possesses. 
+
+<img width="100" alt="Screen Shot 2022-09-04 at 4 22 37 PM" src="https://user-images.githubusercontent.com/92234942/195968440-bb12b841-e4cc-4f2d-8bc6-13af818ba5da.jpg">
+
+My mother got this speaker for me for christmas 6 or 7 years ago, as I wanted a big speaker back in highschool. Although I have had it for such a long time I have never really used every button/function that the speaker possesses. I havent used every every button because my main goal when I got the speaker was to 
 
 
 
