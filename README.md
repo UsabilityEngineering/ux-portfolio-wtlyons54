@@ -11,4 +11,4 @@ Hello my name is William Lyons, I am a 5th year at Chico State studying pursuing
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Entry 1](j01/)
