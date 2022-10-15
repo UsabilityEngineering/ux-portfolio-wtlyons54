@@ -1,7 +1,8 @@
-## Journal Entries
+# Journal Entries
 
-# Entry 1: My Experience with my Job Rocker Max
+## Entry 1: My Experience with my Job Rocker Max
 Author: William Lyons
+|
 Date: 10/14/22
 
 
