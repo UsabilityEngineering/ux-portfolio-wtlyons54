@@ -1,4 +1,4 @@
-# Journal Entries
+# Journal Entry
 
 ## Entry 1: My Experience with my Job Rocker Max
 Author: William Lyons
