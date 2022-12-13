@@ -7,8 +7,10 @@ Hello my name is William Lyons, I am a 5th year at Chico State studying pursuing
 
 
 ## UX Team Project
-
+* **[UX Bracket Maker](https://usabilityengineering.github.io/bracket-maker/)**
 
 ## UX Journal
 
 [Entry 1](j01/)
+
+[Entry 2](j02/)
