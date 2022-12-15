@@ -16,7 +16,7 @@ Date: 12/12/22
 * This is my Nutribullet blender that my mother got me one year ago for Christmas. She knew I desired a blender so that I can make protein smoothies and acai bowls, which I usually have some sort of smoothie everyday. In the pictures it is sitting on a blanket, which is rather abnormal to keep a blender on, but since we are close to the end of the semester I currently have a blanket covering my extra mini fridge that I snuck into the dorms. This is because I did not want to get written up when they do the health and safety checks for each dorm room before the break. 
 * When I first got the blender I had no idea how to use it, and like every other normal person I decided not to read the user manual that was provided when I received it. My main goal with this newly acquired blender was to be able to make a protein smoothie. After plugging it in for the first time and throwing some fruit and protein powder into it, I am now about to use it. 
 
-<img width="200" alt="Screen Shot 2022-09-04 at 4 22 37 PM" src="https://user-images.githubusercontent.com/92234942/207214504-6bc17888-ff50-48a1-a2eb-70abe21c3bfd.JPG">
+<img width="250" alt="Screen Shot 2022-09-04 at 4 22 37 PM" src="https://user-images.githubusercontent.com/92234942/207214504-6bc17888-ff50-48a1-a2eb-70abe21c3bfd.JPG">
 
 * Looking at the button options, my initial thought was to obviously press the button that looks like the well known or “universal” power button symbol in our region. After pressing that, the power button on the blender lit up blue(as shown in the image) insinuating that the blender now must be on. 
 
